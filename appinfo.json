@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "daleemoore@gmail.com",
+    "longName": "Fyrst",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Fyrst",
+    "uuid": "0714356a-c44d-4576-9e42-3913f30c4d2d",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
